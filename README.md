@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @somepulp
 - 👀 I’m interested in building cool things with code  
-- 🌱 I’m currently learning python for web development and REST APIs
-- 💞️ I’m looking to collaborate on anything python related
+- 🌱 I’m currently learning JavaScript for web development
+- 💞️ I’m looking to collaborate on anything JavaScript related
 - 📫 How to reach me - email: koks.edem@gmail.com
 
 <!---

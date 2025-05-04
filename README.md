@@ -5,7 +5,7 @@
 🔧 Exploring GitOps workflows, Terraform, Kubernetes, Vault, and ArgoCD  
 🛠️ Working with FastAPI, Bitbucket Pipelines, and a local-first setup on Ubuntu  
 📚 Using my homelab to deepen my understanding of system design, automation, and networking fundamentals  
-🌱 Learning by doing — breaking things intentionally, and improving with each iteration
+🌱 Learning by doing — breaking things intentionally, and improving with each iteration  
 📫 How to reach me - email: koks.edem@gmail.com
 <!---
 somepulp/somepulp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

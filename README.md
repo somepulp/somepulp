@@ -1,5 +1,3 @@
-🧰 Building my homelab from the ground up, one config at a time.  
-
 👋 Hi, I’m @somepulp  
 💻 Technically curious with an MLOps background, now diving deeper into DevOps and cloud infrastructure  
 🔧 Exploring GitOps workflows, Terraform, Kubernetes, Vault, and ArgoCD  
